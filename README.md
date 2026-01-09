@@ -39,7 +39,6 @@ Xabar yuborgan shaxsning **kimligi mutlaqo oshkor bo‘lmaydi** — uni hech qan
 - Python 🐍
 - Telegram Bot API
   - `python-telegram-bot`
-  - `aiogram`
   - SQLite
 
 ---
@@ -92,8 +91,8 @@ The identity of the sender is **fully protected** — there is **no way to ident
 
 - Python 🐍
 - Telegram Bot API
-  - python-telegram-bot
-  - SQLite
+  - `python-telegram-bot`
+  - `SQLite`
 
 ---
 
